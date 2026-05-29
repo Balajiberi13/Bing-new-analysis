@@ -1,11 +1,9 @@
-[![Azure Certified](https://img.shields.io/badge/Azure-DP--600%20%7C%20DP--700-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/data-engineer/)
-[![Databricks](https://img.shields.io/badge/Powered%20by-Databricks-Red?logo=databricks&logoColor=white)](https://databricks.com/)
- 
 # Bing-new-analysis
 Full end to end Data Engineering project on Bing News data.
 
 
 # Azure Data Engineering Project (Microsoft Fabric)
+[![Azure Certified](https://img.shields.io/badge/Azure-DP--600%20%7C%20DP--700-blue?logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/data-engineer/)
 
 ## Tech Stack
 - Azure Data Factory (Fabric)
